@@ -1,4 +1,4 @@
-# Final Fantasy 14 DND
+# Final Fantasy 14 Process Checker (Linux)
 
 Small python script that when executed, checks if the process ffxiv_dx11.exe (Final Fantasy 14) is running and will set the system to do not disturb if it is, or vice versa.
 
